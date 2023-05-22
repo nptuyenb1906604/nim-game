@@ -1,0 +1,13 @@
+C:\GameNim\GameNim\GameNim\GameNim\bin\Release\GameNim.exe.config
+C:\GameNim\GameNim\GameNim\GameNim\bin\Release\GameNim.exe
+C:\GameNim\GameNim\GameNim\GameNim\bin\Release\GameNim.pdb
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.csproj.AssemblyReference.cache
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.csproj.SuggestedBindingRedirects.cache
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.FormLuatChoi.resources
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.FormMoDau.resources
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.FormTroChoi.resources
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.Properties.Resources.resources
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.csproj.GenerateResource.cache
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.csproj.CoreCompileInputs.cache
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.exe
+C:\GameNim\GameNim\GameNim\GameNim\obj\Release\GameNim.pdb

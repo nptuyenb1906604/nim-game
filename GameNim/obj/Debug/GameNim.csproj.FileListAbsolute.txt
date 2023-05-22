@@ -1,0 +1,108 @@
+E:\CT239\GameNim\GameNim\bin\Debug\GameNim.exe.config
+E:\CT239\GameNim\GameNim\bin\Debug\GameNim.exe
+E:\CT239\GameNim\GameNim\bin\Debug\GameNim.pdb
+E:\CT239\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+E:\CT239\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+E:\CT239\GameNim\GameNim\obj\Debug\GameNim.Form1.resources
+E:\CT239\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+E:\CT239\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+E:\CT239\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+E:\CT239\GameNim\GameNim\obj\Debug\GameNim.exe
+E:\CT239\GameNim\GameNim\obj\Debug\GameNim.pdb
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe.config
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\bin\Debug\GameNim.pdb
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\obj\Debug\GameNim.Form1.resources
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\obj\Debug\GameNim.exe
+C:\Users\HP\Downloads\GameNim\GameNim\GameNim\obj\Debug\GameNim.pdb
+D:\C#\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe.config
+D:\C#\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe
+D:\C#\GameNim\GameNim\GameNim\bin\Debug\GameNim.pdb
+D:\C#\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+D:\C#\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+D:\C#\GameNim\GameNim\GameNim\obj\Debug\GameNim.Form1.resources
+D:\C#\GameNim\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+D:\C#\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+D:\C#\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+D:\C#\GameNim\GameNim\GameNim\obj\Debug\GameNim.exe
+D:\C#\GameNim\GameNim\GameNim\obj\Debug\GameNim.pdb
+E:\CT239\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe.config
+E:\CT239\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe
+E:\CT239\GameNim\GameNim\GameNim\bin\Debug\GameNim.pdb
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.exe
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.pdb
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormMoDau.resources
+E:\CT239\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormTroChoi.resources
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe.config
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\bin\Debug\GameNim.pdb
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormMoDau.resources
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormTroChoi.resources
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.exe
+E:\CT239\GameNim (3)\GameNim\GameNim\GameNim\obj\Debug\GameNim.pdb
+D:\Winform\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe.config
+D:\Winform\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormMoDau.resources
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormTroChoi.resources
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.exe
+D:\Winform\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.pdb
+D:\Winform\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.pdb
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe.config
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.pdb
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormMoDau.resources
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormTroChoi.resources
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.exe
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.pdb
+E:\CT239\GameNim\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormLuatChoi.resources
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe.config
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\bin\Debug\GameNim.pdb
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormLuatChoi.resources
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormMoDau.resources
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormTroChoi.resources
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.exe
+C:\Users\HP\Documents\GameNim\GameNim\GameNim\obj\Debug\GameNim.pdb
+C:\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe.config
+C:\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.exe
+C:\GameNim\GameNim\GameNim\GameNim\bin\Debug\GameNim.pdb
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.AssemblyReference.cache
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.SuggestedBindingRedirects.cache
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormLuatChoi.resources
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormMoDau.resources
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.FormTroChoi.resources
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.Properties.Resources.resources
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.GenerateResource.cache
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.csproj.CoreCompileInputs.cache
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.exe
+C:\GameNim\GameNim\GameNim\GameNim\obj\Debug\GameNim.pdb

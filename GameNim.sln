@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameNim", "GameNim\GameNim.csproj", "{0FE6CA1D-DC71-42C0-BEAF-A0AAF2797213}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup5", "Setup5\Setup5.vdproj", "{162A0EE1-DF73-46AC-B027-5F4BA903375E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup6", "Setup6\Setup6.vdproj", "{71085CD8-F147-422F-837E-343769E297CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE6CA1D-DC71-42C0-BEAF-A0AAF2797213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE6CA1D-DC71-42C0-BEAF-A0AAF2797213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE6CA1D-DC71-42C0-BEAF-A0AAF2797213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE6CA1D-DC71-42C0-BEAF-A0AAF2797213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162A0EE1-DF73-46AC-B027-5F4BA903375E}.Debug|Any CPU.ActiveCfg = Debug
+		{162A0EE1-DF73-46AC-B027-5F4BA903375E}.Release|Any CPU.ActiveCfg = Release
+		{71085CD8-F147-422F-837E-343769E297CD}.Debug|Any CPU.ActiveCfg = Debug
+		{71085CD8-F147-422F-837E-343769E297CD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA1974B-0368-4FD2-85A8-CBE2C4BA9F84}
+	EndGlobalSection
+EndGlobal
